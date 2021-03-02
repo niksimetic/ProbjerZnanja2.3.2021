@@ -1,0 +1,10 @@
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\bin\Debug\nikSimeticIspit2.3.2021.exe.config
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\bin\Debug\nikSimeticIspit2.3.2021.exe
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\bin\Debug\nikSimeticIspit2.3.2021.pdb
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\obj\Debug\nikSimeticIspit2.3.2021.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\obj\Debug\nikSimeticIspit2._3._2021.Form1.resources
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\obj\Debug\nikSimeticIspit2._3._2021.Form2.resources
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\obj\Debug\nikSimeticIspit2._3._2021.Properties.Resources.resources
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\obj\Debug\nikSimeticIspit2.3.2021.csproj.GenerateResource.cache
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\obj\Debug\nikSimeticIspit2.3.2021.exe
+C:\Users\Učenik 4\source\repos\nikSimeticIspit2.3.2021\nikSimeticIspit2.3.2021\obj\Debug\nikSimeticIspit2.3.2021.pdb
